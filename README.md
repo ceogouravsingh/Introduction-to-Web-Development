@@ -4,4 +4,6 @@ This repository contains all of the code for each individual lesson and is broke
 
 The code in these projects is only meant as a reference and should not be directly copied. Instead you should be creating your own web site for your own favorite musician.
 
+This project is only ment for educational purpose.Please write your own code for your projrcts.
+
 View the videos for this course [here](https://www.youtube.com/watch?v=HfTXHrWMGVY&list=PLZlA0Gpn_vH-cEDOofOujFIknfZZpIk3a).
